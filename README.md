@@ -19,8 +19,7 @@ Repository Contents
 
 How to Use
 
-    Install MITRE ATT&CK Navigator:
-    If you haven’t already, download and set up the MITRE ATT&CK Navigator from the official repository.
+    Visit Navigator under https://mitre-attack.github.io/attack-navigator/
 
     Load a Layer:
         Open the Navigator.
