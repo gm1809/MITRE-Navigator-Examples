@@ -15,6 +15,7 @@ Steps to Create the Examples:
 1. Access the Navigator
 
 Open your web browser and go to the MITRE ATT&CK Navigator.
+
 2. Create a New Layer File
 
     Click on "New Layer" to open a blank visualization workspace.
