@@ -14,7 +14,7 @@ Steps to Create the Examples:
 
 1. Access the Navigator
 
-Open your web browser and go to the MITRE ATT&CK Navigator.
+    Open your web browser and go to the MITRE ATT&CK Navigator.
 
 2. Create a New Layer File
 
@@ -23,8 +23,8 @@ Open your web browser and go to the MITRE ATT&CK Navigator.
     This layer will be used to map out your attack scenarios.
 
 3. Identify and Map Techniques
-Sandworm vs APT28 Example
-Create a Layer for Each Group
+    Sandworm vs APT28 Example
+    Create a Layer for Each Group
 
 Sandworm:
 
